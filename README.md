@@ -1,8 +1,5 @@
 ## Project: diabetes-prediction
 
-
-
-
 ### Algoritihms used
 * Support Vector Machine
 * K-Nearest Neighbors
@@ -14,8 +11,21 @@
 ### Model Evaluation Methods used
 * Cross Validation
 * Confusion Matrix
-* Accuracy Score
+* Accura
 * ROC AUC Curve
+
+### Data
+The dataset ```diabetes.csv``` contains 2000 entries having 9 columns each.
+* Pregnancies
+* Glucose   
+* Blood Pressure               
+* Skin Thickness               
+* Insulin                     
+* BMI                         
+* Diabetes Pedigree Function    
+* Age                         
+* Outcome             
+
 
 ### Required Tools and Libraries:
 * Pandas
