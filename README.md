@@ -33,3 +33,15 @@ The dataset ```diabetes.csv``` contains 2000 entries having 9 columns each.
 * Seaborn
 * Scikit-learn
 * Jupyter Notebook
+
+### How to get project files:
+
+* Clone the repository and navigate to the downloaded folder.
+
+  ```git clone https://github.com/adityasaxena26/diabetes_prediction.git```
+
+  ```cd diabetes_prediction```
+
+* Run the following to open up the notebook server: ```jupyter notebook```
+
+* In your browser, open and edit ```diabetes_prediction.ipynb```
