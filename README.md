@@ -1,4 +1,5 @@
-## Project: diabetes-prediction
+## Diabetes prediction
+ The project aims to use the past medical data records of 2000 diabetes patients in order to build a diabetes prediction model. I analyzed and evaluated many machine learning algorithms based on accuracy and other metrics to find the best algorithm for the model. Given the data of a new patient, the model would predict the outcome that the person will have diabetes or not.
 
 ### Algoritihms used
 * Support Vector Machine
@@ -25,7 +26,6 @@ The dataset ```diabetes.csv``` contains 2000 entries having 9 columns each.
 * Diabetes Pedigree Function    
 * Age                         
 * Outcome             
-
 
 ### Required Tools and Libraries:
 * Pandas
